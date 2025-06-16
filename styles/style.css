@@ -372,7 +372,8 @@ body {
   }
 
   .footer-column {
-    width: 100%;
+   
+
   }
 
 
@@ -402,5 +403,5 @@ body {
   width: 100%;
   height: auto;
   display: block;
-}
+  }
 
